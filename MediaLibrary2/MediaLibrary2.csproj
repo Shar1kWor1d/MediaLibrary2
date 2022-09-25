@@ -49,6 +49,16 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\eco.png" />
+	  <None Remove="Resources\Images\eng.jpg" />
+	  <None Remove="Resources\Images\him.jpg" />
+	  <None Remove="Resources\Images\inf.jpg" />
+	  <None Remove="Resources\Images\mat.jpg" />
+	  <None Remove="Resources\Images\obh.png" />
+	  <None Remove="Resources\Images\obs.jpg" />
+	  <None Remove="Resources\Images\phi.png" />
+	  <None Remove="Resources\Images\rus.jpg" />
+	  <None Remove="Resources\Images\sha.png" />
 	  <None Remove="Resources\Raw\food.json" />
 	</ItemGroup>
 
